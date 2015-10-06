@@ -57,3 +57,6 @@ Class does not meet, instead please view these video lectures:
   
   See also :ref:`software`
 
+**Note:** See :ref:`codes` for instructions to obtain these and future
+notebooks from GitHub.
+

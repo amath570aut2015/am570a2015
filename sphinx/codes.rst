@@ -4,7 +4,29 @@
 Sample codes
 ------------
 
-These are from 2013 and will be supplemented by new stuff...
+The notebooks can also be viewed `on GitHub
+<https://github.com/amath570aut2015/am570a2015/tree/master/codes>`_
+or obtained by cloning this repository::
+
+    git clone https://github.com/amath570aut2015/am570a2015.git
+
+and you will find them in the `codes` directory.
+
+Some of the Jupyter notebooks below were used in 
+connection with the video lectures recorded for :ref:`5oct2015`.  
+
+- `Aliasing.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Aliasing.ipynb>`_
+
+- `Fourier-Spectral.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Fourier-Spectral.ipynb>`_
+
+- `Aliasing.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Aliasing.ipynb>`_
+
+**Examples from 2013**
+
+These are from 2013 and will eventually be updated...
 
 .. comment: See also :ref:`hwformat` for some other examples.
 
@@ -12,10 +34,6 @@ These are from 2013 and will be supplemented by new stuff...
   illustrating the use of Chebfun for spectral methods, following the
   examples of Chapter 21 of ATAP.
 
-* `Fourier-Spectral.ipynb <http://nbviewer.ipython.org/gist/rjleveque/8798516>`__  
-  shows an IPython notebook
-  illustrating Fourier spectral methods in Matlab, following SMM Chapter 3,
-  and also Python versions.
 
 * `Spectral-Advection.ipynb <http://nbviewer.ipython.org/gist/rjleveque/8798502>`__  
   shows an IPython notebook
