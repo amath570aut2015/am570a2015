@@ -76,18 +76,72 @@ many mathematical operations), `matplotlib <http://matplotlib.org/>`_
 `IPython shell <http://ipython.org/>`_ and/or 
 `IPython notebook <http://ipython.org/notebook.html>`_
 (recently replaced by the `Jupyter notebook <http://jupyter.org>`_)
-are highly recommended for interactive work.  
+are highly recommended for interactive work, see below.  
+
 The `Anaconda Python Distribution <https://store.continuum.io/cshop/anaconda/>`_
 is one easy way to get everything you need.  If you install this, you can
 also then use the `conda package installer
 <http://conda.pydata.org/docs/install/quick.html>`_ to install various
-extensions easily.
+extensions easily.  
+
+You should install Python 2.7 (not 3.x) to be compatible with what is used
+in the notebooks posted for this this class.
 
 Jupyter notebooks
 -----------------
 
+See http://jupyter.org for more information and documentation. 
+
+See :ref:`5oct2015` for some videos using notebooks.
+
+The notebook platform is rapidly being improved but as a result how things
+behave often depend on what version you have installed.  If you installed
+the Anaconda Python, you can insure you have jupyter and  are up to date 
+via the bash commands::
+
+    conda install jupyter
+    conda update jupyter
+
+Then in a bash shell you should be able to execute::
+
+    jupyter notebook
+
+to start the notebook server.  You can then navigate your browser
+to the address shown when the notebook starts, e.g. ::
+
+    http://localhost:8888/tree
+
 If you want to easily run notebooks without installing any software, you
-might try :ref:`smc`.
+might try :ref:`smc`.  (But you can't run any notebooks that use Matlab,
+since that is not installed on SMC.)
+
+
+Using Matlab in Jupyter notebooks
+---------------------------------
+
+If you also have Matlab installed on your computer, you can run Matlab code
+from the notebook by using the 
+`pymatbridge <https://github.com/arokem/python-matlab-bridge>`_
+module.  This allows you to start a cell with `%%matlab` and have it run in
+Matlab to produce results, as illustrated in some of the notebooks for this
+class.  
+
+You can also install `matlab_kernel <https://pypi.python.org/pypi/matlab_kernel>`_
+as a way to create a notebook that uses the Matlab kernel for all cells by
+default, rather than Python, so you do not need to start cells with
+`%%matlab`.  (In this case you can start a cell with `%%python` if you want
+one cell to use Python instead.)
+
+You should be able to get both `pymatbridge` and `matlab_kernel` via::
+
+    pip install matlab_kernel
+
+If you don't have the Python package manager `pip` but have the Anaconda
+Python, try::
+
+    conda install pip
+
+
 
 Julia
 -----
