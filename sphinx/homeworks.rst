@@ -16,6 +16,7 @@ Schedule (tentative)
 ---------------------
 
 * :ref:`homework1`: due Oct. 9 by 4:00pm
+* :ref:`homework2`: due Oct. 22 by 11:00pm
 * Project presentations: Wed Dec. 9 and Thurs. Dec. 10?
 
 
