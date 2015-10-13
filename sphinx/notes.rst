@@ -6,7 +6,10 @@
 Lectures
 =============================================================
 
-Some additional notes and references from lectures, and some videos...
+Some additional notes and references from lectures, and some videos.
+
+See :ref:`codes` for information on obtaining the notebooks below from
+GitHub.
 
 .. _30sep2015:
 
@@ -59,4 +62,12 @@ Class does not meet, instead please view these video lectures:
 
 **Note:** See :ref:`codes` for instructions to obtain these and future
 notebooks from GitHub.
+
+
+.. _12oct2015:
+
+12 October 2015
+----------------
+
+We worked through the notebook `Fourier_Smoothing.ipynb <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Fourier_Smoothing.ipynb>`_
 

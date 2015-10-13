@@ -13,7 +13,7 @@ or obtained by cloning this repository::
 and you will find them in the `codes` directory.
 
 Some of the Jupyter notebooks below were used in 
-connection with the video lectures recorded for :ref:`5oct2015`.  
+connection with video lectures, see :ref:`notes`.
 
 - `Aliasing.ipynb
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Aliasing.ipynb>`_
@@ -24,7 +24,11 @@ connection with the video lectures recorded for :ref:`5oct2015`.
 - `Aliasing.ipynb
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Aliasing.ipynb>`_
 
+- `Fourier_Smoothing.ipynb 
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Fourier_Smoothing.ipynb>`_
+
 **Examples from 2013**
+
 
 These are from 2013 and will eventually be updated...
 
