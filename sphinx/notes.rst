@@ -71,3 +71,15 @@ notebooks from GitHub.
 
 We worked through the notebook `Fourier_Smoothing.ipynb <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Fourier_Smoothing.ipynb>`_
 
+.. _14oct2015:
+
+14 October 2015
+----------------
+
+Notebooks:
+
+- `p9_demo.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/p9_demo.ipynb>`_
+- `ChebPolyOnCircle.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/ChebPolyOnCircle.ipynb>`_
+

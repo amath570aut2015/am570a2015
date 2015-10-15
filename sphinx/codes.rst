@@ -27,6 +27,12 @@ connection with video lectures, see :ref:`notes`.
 - `Fourier_Smoothing.ipynb 
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Fourier_Smoothing.ipynb>`_
 
+- `p9_demo.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/p9_demo.ipynb>`_
+
+- `ChebPolyOnCircle.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/ChebPolyOnCircle.ipynb>`_
+
 **Examples from 2013**
 
 
