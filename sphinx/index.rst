@@ -23,5 +23,6 @@ Contents
    software
    smc
    codes
+   git
    biblio
 

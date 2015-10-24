@@ -157,3 +157,14 @@ For an introduction to Julia, see for example:
 - `Julia: A Fresh Approach to Numerical Computing <http://arxiv.org/abs/1411.1607>`_
   by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
 
+.. _install_git:
+
+Git
+---
+
+We will use the Git version control language for collaborating on projects.
+See :ref:`git` for more information on the class repositories and
+:ref:`git_refs`.
+
+
+
