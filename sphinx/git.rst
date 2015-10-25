@@ -39,6 +39,10 @@ Note: this organization was set up for this class via `GitHub for Education
 Developer Pack that includes additional free private repositories
 and other goodies.
 
+You can also get free private repositories on `Bitbucket
+<https://bitbucket.org/>`_, another cloud hosting site that provides
+unlimited private repositories (but you need a paid account for public
+repositories, while GitHub has the opposite pricing model).
 
 .. _class_repos:
 
