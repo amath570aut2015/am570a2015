@@ -22,6 +22,30 @@ turning in assignments late, please make arrangements in advance.
   `am570-username` based on your GitHub username.  See :ref:`git` for
   information on how to clone this repository.
 
+* The video about using GitHub for 26 October 2015 walks you through the
+  next steps:
+
+  - Clone the repository `am570-username`
+  - cd into the directory this creates.
+  - Edit `README.md` so the title is correct for your username and so
+    that it your full name appears in the file.
+  - Use `git add` and `git commit` to commit this change.
+  - Use `git push` to push this change to GitHub.
+  - Check the GitHub webpage to see that it appears as desired.
+  - Create a subdirectory `hw3` 
+  - Copy the files `cheb.m` and `p11.m` from SMM into `hw3`
+  - `git add` and `git commit` these files (original version)
+  - Run `p11.m` in Matlab and `print -djpeg p11.jpg` to create a jpeg file.
+  - Add and commit this file and `git push` to GitHub.
+  - Note that you can view the image on GitHub.
+  - Modify `p11.m` so that the upper figure is for `N=30` rather than
+    `N=10`.
+  - Create a new version of `p11.jpg`.  
+  - Add and commit these changes and `git push` to GitHub.
+  - Note that on GitHub you can view the changes introduced in a commit by
+    clicking on the commit number.
+
+
 * More exercises to appear.
 
 

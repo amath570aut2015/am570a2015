@@ -75,8 +75,8 @@ First create up a GitHub account if you don't already have one.  If you
 already have an account, you do **not** need to create a new one for this class.
 See `<https://github.com>`_.
 
-Next follow the link found at 
-`<https://canvas.uw.edu/courses/1014512/assignments/3027508>`_.
+Next follow the link found on the
+`Homework 3 Canvas page <https://canvas.uw.edu/courses/1014512/assignments/3027508>`_.
 This will create a new private repository within the class organization with
 the name `am570-username` where `username` is your GitHub username.
 
