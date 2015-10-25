@@ -16,14 +16,23 @@ turning in assignments late, please make arrangements in advance.
 * Create a GitHub account for yourself if you don't already have one, see
   `<https://github.com>`_.
 
+* Watch the 
+  `Intro to Git video
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b0d36d9-d8f3-0edd-517c-1374b697b132>`_
+  from :ref:`26oct2015` if you are not already familiar with git.
+
 * See the 
   `Canvas Homework 3 assignment <https://canvas.uw.edu/courses/1014512/assignments/3027508>`_
   page for a link that will create a private repository for you named
   `am570-username` based on your GitHub username.  See :ref:`git` for
   information on how to clone this repository.
 
-* The video about using GitHub for 26 October 2015 walks you through the
-  next steps:
+* Watch the `Intro to GitHub video
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90d5c9a3-b746-5307-8759-3b17ae432392>`_
+  from :ref:`26oct2015`, even if you are familiar with GitHub, since it
+  contains information about the class repositories and walks you through
+  the next steps:
+
 
   - Clone the repository `am570-username`
   - cd into the directory this creates.

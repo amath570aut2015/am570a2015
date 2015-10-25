@@ -83,3 +83,33 @@ Notebooks:
 - `ChebPolyOnCircle.ipynb
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/ChebPolyOnCircle.ipynb>`_
 
+
+.. _19oct2015:
+
+19 October 2015
+----------------
+
+- `ChebPolyOnCircle.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/ChebPolyOnCircle.ipynb>`_
+  was updated to also illustrate aliasing of Chebyshev polynomials.
+
+
+.. _26oct2015:
+
+26 October 2015
+---------------
+
+Class does not meet, instead please view these video lectures:
+
+- `Introduction to Git
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b0d36d9-d8f3-0edd-517c-1374b697b132>`_
+  for those not already familiar with git.  (35 minutes)
+
+
+- `Introduction to GitHub
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90d5c9a3-b746-5307-8759-3b17ae432392>`_
+  also contains an introduction to setting up a repository for this class
+  and part of :ref:`homework3`.  (35 minutes)
+
+- Also work through Chapters 6 and 7 of ATAP.   
+
