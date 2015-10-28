@@ -55,6 +55,36 @@ turning in assignments late, please make arrangements in advance.
     clicking on the commit number.
 
 
-* More exercises to appear.
+For the remaining problems you are encouraged to work in your git repository
+and commit often as you go along to get in the habit of using version control.
+
+You may submit the homework as usual through the `Canvas submission link
+<https://canvas.uw.edu/courses/1014512/assignments/3027508>`_.  
+
+If you want to use your GitHub repository instead, please submit a
+file to Canvas by the due date that contains your GitHub username
+and the commit number for the version you want me to grade (the
+40-digit hexadecimal string).  This can just be a text file or a pdf file.
+
+* ATAP #5.1, 5.2.
+
+* ATAP #5.7.  In addition to what is asked for, also:
+
+  - Produce a log-log plot of the max-norm error in :math:`p_n(x)` vs.
+    :math:`n` for :math:`n=1,~2,~\ldots,~25` and on the same plot, the error
+    in the polynomial interpolating at the Chebyshev points.
+  - Do this for :math:`f(x) = |x|`, and then also try your code
+    on :math:`f(x) = \exp(-|x|^3)` and :math:`f(x) = e^x`.  
+    Comment on what you observe in each case.
+
+* ATAP #6.5.  Note that the binomial coefficient formula for ":math:`k` choose
+  :math:`n`" given by
+  :math:`k(k-1)...(k-n+1)/n!`  can be used also when :math:`k=1/2`.
+  Be careful about showing convergence of your series
+  approximation.  You can use the ratio test, but may need to rescale
+  :math:`x` to get a series that coverges everywhere in :math:`[-1,1]`, using
+  e.g. :math:`|x| = 2|x/2|`.
+
+* ATAP #7.1, 8.1, 8.2, 8.3.
 
 
