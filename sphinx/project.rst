@@ -35,7 +35,7 @@ Possible topics
 
 * Stability theory for barycentric interpolation, as briefly mentioned on
   page 39 of ATAP and reading Higham[2008] and Webb, Trefethen and Gonnet
-  [2011].
+  [2011] (references in ATAP).
 
 * The Remez algorithm for finding the best (minimax) approximation.
 
@@ -61,11 +61,6 @@ Possible topics
 
 * Bézier curves and surfaces: splines often used in modeling geometry.
 
-* Radial basis functions.
-
-* Spherical harmonics: basis functions used for spectral methods on the
-  sphere.
-
 * Sinc function interpolation, perhaps starting with the Richardson and
   Trefethen (2011) reference from ATAP.
 
@@ -74,5 +69,27 @@ Possible topics
 * Spectral methods applied to some other interesting application.
 
 * Eigenvalues and pseudospectra, starting from Chapter 9 of SMM.
+
+* Explore further the relation between Chebyshev and trigonometric series,
+  based on the paper `Extension of chebfun to periodic functions
+  <http://math.boisestate.edu/~wright/research/trigpaper.pdf>`_, 
+  by Wright, Javed, Montinelli, and Trefethen.
+
+* Explore `spherefun`, an extension of `chebfun` to approximation on the
+  sphere, based on the paper
+  `Computing with functions in spherical and polar geometries I. The sphere.
+  <http://math.boisestate.edu/~wright/research/spherefun.pdf>`_,
+  by Townsend, Wilber, and Wright.
+
+* Investigate radial basis functions, an approach do doing high-order
+  interpolation with scattered data.  The paper
+  `Solving PDEs with radial basis functions 
+  <http://dx.doi.org/10.1017/S0962492914000130>`_ by Fornberg and Flyer might
+  be a good starting point.  (They also have a 
+  `new book <http://bookstore.siam.org/cb87/>`_ on this topic.)
+  
+
+
+
 
 
