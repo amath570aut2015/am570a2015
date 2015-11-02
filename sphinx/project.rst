@@ -4,7 +4,7 @@
 Course Projects
 ==============
 
-Students should work in groups of 2 (possibly 3) to tackle a project related to
+Students should work in groups of 2 to tackle a project related to
 approximation theory, interpolation, spectral methods, 
 or something else closely related to the themes explored in this course.
 See :ref:`projects_topics`.
@@ -26,7 +26,108 @@ books that we will not cover.  The idea would be to use the chapter as a
 starting point for exploring something in more detail, finding other good
 sources in the references or elsewhere.
 
-More information will appear early in the quarter....
+.. _peer_review:
+
+Feedback and peer review
+-------------------------
+
+Each group will be paired with another group for the purpose of giving
+feedback on both a draft of the paper and slides for the presentation.
+
+See :ref:`paper` for some hints on how to structure your paper and give
+other groups feedback on theirs.
+
+The goal is to help each other out, not to grade or pass judgement, so focus
+on constructive feedback.  Another objective is to help you learn more about
+at least one topic another group is working on, and perhaps to
+improve your own paper or presentation by getting ideas from looking
+at what other groups are doing.
+
+Teams will use GitHub repositories to collaborate on projects, see
+:ref:`git`, and you are encouraged to use the issue tracker to make and
+respond to comments.
+
+
+.. _timeline:
+
+Timeline
+--------
+
+By Monday, November 9, groups should be formed with some idea of what you
+want to work on.  
+
+By Friday, November 13, each group should post a 1-page proposal of the
+planned project, including references to paper(s) you plan to explore
+and a summary of what computing you will do.  
+
+I will give some feedback on each within a few days but you are also welcome
+to look at other groups' proposals and make comments if you wish.
+
+By Wednesday, November 25, post a draft of your paper so that your partner
+group can "peer review" the draft.  
+
+By Wednesday,  December 2, post comments on the draft.
+
+By Tuesday, December 8, post your final paper submission.
+
+Wednesday, December 9, 3:30 - 6:30pm presentations.
+
+.. _paper:
+
+The course project paper
+-------------------------
+
+The paper for your project should be 10 pages max, plus computer code, which
+can be included in the GitHub repository.
+
+
+In writing the paper and when giving feedback to your partner group on their
+paper, it would be good to keep the following guidelines in mind:
+
+* Write the paper so it is structured like a journal article, e.g. start
+  with a brief abstract and include introduction and conclusions
+  sections.
+
+* The paper should be reasonably focused.  If you plan to investigate
+  several aspects of a problem, 10 pages won't be enough to
+  explore them all in detail.  It's ok to concentrate on one or two aspects
+  in the paper and then include a list that briefly summarizes other things
+  you explored.
+
+* The paper should be understandable by others in the class even if they 
+  haven't read all the papers you have on your topic.  You can assume the
+  reader will have this class as background (so you don't need to 
+  take up space repeating things covered in class) but if you discuss new
+  concepts or terms not covered in class, make sure you define things 
+  so the paper makes sense (to your partner group in particular) without
+  having to track down the references.
+
+* Take some care in selecting figures for the paper that best illustrate
+  the topic and the results of any computer experiments you do. As in
+  a journal article, you don't have space to include every figure you
+  might produce, so make sure every figure you do include is there for a
+  reason.
+
+There are many resources available online to help in writing a paper and in
+formulating feedback. 
+
+.. _presentation:
+
+Presentations
+-------------------------
+
+Presentations will be Wednesday, December 9, 3:30 - 6:30pm 
+
+Presentations should be at most 20 minutes long.  
+
+Try to structure the presentation so that it can be given jointly,
+e.g. each person talking about some aspect of the project.
+
+As with the paper, don't feel like you have to cover everything you did in
+the presentation.  It might be best to cover the most interesting aspect or
+two in enough detail that everyone can follow and learn something new and
+interesting from the talk, and then summarize other things you looked at.
+
 
 .. _projects_topics:
 
