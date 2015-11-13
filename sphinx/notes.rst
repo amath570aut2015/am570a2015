@@ -113,3 +113,20 @@ Class does not meet, instead please view these video lectures:
 
 - Also work through Chapters 6 and 7 of ATAP.   
 
+.. _12nov2015:
+
+12 November 2015
+----------------
+
+- `Collaborating with GitHub
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b912f327-b1ae-bfe4-dc3e-7bc2e21dbf6c>`_
+  A brief introduction to using GitHub to collaborate (with yourself or
+  others).
+
+- See also the tutorials at :ref:`git_refs`
+- If you run into merge conflicts, this might help:
+  `Resolving a merge conflict <https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/>`_
+- If you get frustrated, here's some `comic relief
+  <http://www.explainxkcd.com/wiki/index.php/1597:_Git>`_
+  that also has some possibly useful info below the comic.
+
