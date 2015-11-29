@@ -15,6 +15,10 @@ and you will find them in the `codes` directory.
 Some of the Jupyter notebooks below were used in 
 connection with video lectures, see :ref:`notes`.
 
+If any links below aren't working, you should also be able to view them at
+`https://github.com/amath570aut2015/am570a2015/tree/master/codes
+<https://github.com/amath570aut2015/am570a2015/tree/master/codes>`_.
+
 - `Aliasing.ipynb
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Aliasing.ipynb>`_
 
