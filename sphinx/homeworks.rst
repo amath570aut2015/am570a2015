@@ -19,6 +19,7 @@ Schedule (tentative)
 * :ref:`homework2`: due Oct. 22 by 11:00pm
 * :ref:`homework3`: due Nov. 5 by 11:00pm
 * :ref:`homework4`: due Nov. 19 by 11:00pm
+* :ref:`homework5`: due Dec. 7 by 11:00pm
 * Project presentations: Wed Dec. 9, 3:30 - 6:30pm
 
 
