@@ -33,6 +33,13 @@ connection with video lectures, see :ref:`notes`.
 - `ChebPolyOnCircle.ipynb
   <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/ChebPolyOnCircle.ipynb>`_
 
+- `Dx_Pseudospectra.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Dx_Pseudospectra.ipynb>`_
+
+- `Spectral_Advection.ipynb
+  <http://nbviewer.ipython.org/url/faculty.washington.edu/rjl/classes/am570a2015/_static/Spectral_Advection.ipynb>`_
+
+
 **Examples from 2013**
 
 
