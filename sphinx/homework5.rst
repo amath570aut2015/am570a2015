@@ -7,8 +7,7 @@ Homework 5
 =============================================================
 
 
-Submit via the `Canvas page
-`dropbox <https://canvas.uw.edu/courses/1014512/assignments/3055209>`_
+Submit via the `Canvas page <https://canvas.uw.edu/courses/1014512/assignments/3055209>`_
 by 11:00pm on Friday December 7, 2015.
 Homework can be submitted up to 24 hours late
 with a 10% reduction in points possible.  If special circumstances warrant
@@ -76,7 +75,7 @@ the function you are interpolating to have :math:`\hat p(-30) = 1` so that
 The notebook "Spectral_Advection.ipynb" found in :ref:`codes` and the
 `codes` directory of the class GitHub repository
 illustrates using the Chebyshev spectral method to solve the advection
-equation :math:`u_t + u_x = 0` using the Forward Euler method for
+equation :math:`u_t = u_x` using the Forward Euler method for
 time stepping.
 
 See also the notebook "Dx_Pseudospectra.ipynb" for more discussion of
